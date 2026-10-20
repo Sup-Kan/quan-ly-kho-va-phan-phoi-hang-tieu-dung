@@ -7,6 +7,7 @@
 
 !/docs/01-overview.md
 !/docs/02-requirements.md
+!/docs/03-architecture.md
 
 # Giữ lại các tệp .gitkeep để duy trì khung thư mục
 !.gitkeep
