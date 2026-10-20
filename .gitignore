@@ -11,6 +11,7 @@
 !/docs/04-database.md
 !/docs/05-implementation.md
 !/docs/06-testing.md
+!/docs/07-decisions.md
 
 # Giữ lại các tệp .gitkeep để duy trì khung thư mục
 !.gitkeep
